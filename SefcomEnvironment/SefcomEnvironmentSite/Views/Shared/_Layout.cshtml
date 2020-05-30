@@ -1,13 +1,70 @@
 ﻿<!DOCTYPE html>
+<!-- Project   : SefcomEnvironment
+     ASP.NET Core 2.2 MCV Web Application
 
-<html>
+     Developer : Katlego Mokhethi
+                 mokhethikatlego@gmail.com
+     Contact at: https://katlegomokethi.github.io/home
+ -->
+<html lang="en">
 <head>
-    <meta name="viewport" content="width=device-width" />
-    <title>@ViewBag.Title</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Bootstrap CSS -->
+    <link asp-href-include="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link asp-href-include="/lib/font-awesome/css/all.css" rel="stylesheet" />
+    <link asp-href-include="styles/style.css" rel="stylesheet" />
+    <title>@ViewData["Title"] | Sefcom Environment</title>
 </head>
 <body>
+    <header>
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+            <div class="container">
+                <!--Navbar Brand-->
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">
+                    <h3 class="text-light">
+                        <img src="~/images/logo/SE_Logo.png" style="width:60px;"  />
+                    </h3>
+                </a>
+                <!--Hamburger menu-->
+                <button class="navbar-toggler btn-outline-warning" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <!--Nav Items-->
+                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
+                    <ul class="navbar-nav flex-grow-1 font-weight-bold">
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="Index">HOME</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="About">ABOUT</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" asp-controller="Home" asp-action="ContactUs">CONTACT US</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
     <div>
         @RenderBody()
     </div>
+    <!-- footer -->
+    <footer style="background-color: black;">
+        <div class="container text-light text-center text-md-left pt-5">
+            <div class="text-center text-muted">
+                &copy; Copyright @DateTime.Now.Year.ToString() Sefcom Environment . All rights reserved
+            </div>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script asp-src-include="lib/jquery/jquery.slim.min.js"></script>
+    <script asp-src-include="lib/popper.js/popper.min.js"></script>
+    <script asp-src-include="lib/bootstrap/js/bootstrap.min.js"></script>
 </body>
 </html>
