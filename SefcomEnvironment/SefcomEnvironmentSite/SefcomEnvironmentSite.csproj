@@ -14,7 +14,6 @@
     <Folder Include="Models\" />
     <Folder Include="wwwroot\images\logo\" />
     <Folder Include="wwwroot\images\resources\" />
-    <Folder Include="wwwroot\styles\" />
   </ItemGroup>
 
 </Project>

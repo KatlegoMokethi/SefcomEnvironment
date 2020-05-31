@@ -26,3 +26,6 @@ C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\Sef
 C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Debug\netcoreapp2.2\SefcomEnvironmentSite.dll
 C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Debug\netcoreapp2.2\SefcomEnvironmentSite.pdb
 C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Debug\netcoreapp2.2\SefcomEnvironmentSite.csproj.CopyComplete
+C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
