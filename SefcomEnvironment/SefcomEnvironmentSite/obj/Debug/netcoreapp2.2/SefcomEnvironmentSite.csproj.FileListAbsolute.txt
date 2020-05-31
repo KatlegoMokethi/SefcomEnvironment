@@ -30,3 +30,4 @@ C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\Sef
 C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.cshtml.g.cs
 C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Debug\netcoreapp2.2\Razor\Views\Software\Index.cshtml.g.cs
+C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Debug\netcoreapp2.2\Razor\Views\Services\Index.cshtml.g.cs
