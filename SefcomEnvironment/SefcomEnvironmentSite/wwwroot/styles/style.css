@@ -32,6 +32,14 @@ html {
     width: 100%;
 }
 
+.area {
+    background: rgb(137,142,214);
+    background: -moz-radial-gradient(circle, rgba(137,142,214,1) 0%, rgba(216,216,245,1) 0%, rgba(109,157,223,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(137,142,214,1) 0%, rgba(216,216,245,1) 0%, rgba(109,157,223,1) 100%);
+    background: radial-gradient(circle, rgba(137,142,214,1) 0%, rgba(216,216,245,1) 0%, rgba(109,157,223,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#898ed6",endColorstr="#6d9ddf",GradientType=1);
+}
+
 a:hover, a:focus, a:active {
     text-decoration: none;
     color: #00199f;
