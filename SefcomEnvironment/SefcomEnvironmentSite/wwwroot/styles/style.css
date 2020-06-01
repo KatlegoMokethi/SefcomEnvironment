@@ -33,11 +33,16 @@ html {
 }
 
 .area {
-    background: rgb(137,142,214);
+    /*background: rgb(137,142,214);
     background: -moz-radial-gradient(circle, rgba(137,142,214,1) 0%, rgba(216,216,245,1) 0%, rgba(109,157,223,1) 100%);
     background: -webkit-radial-gradient(circle, rgba(137,142,214,1) 0%, rgba(216,216,245,1) 0%, rgba(109,157,223,1) 100%);
     background: radial-gradient(circle, rgba(137,142,214,1) 0%, rgba(216,216,245,1) 0%, rgba(109,157,223,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#898ed6",endColorstr="#6d9ddf",GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#898ed6",endColorstr="#6d9ddf",GradientType=1);*/
+    background: rgb(45,158,254);
+    background: -moz-radial-gradient(circle, rgba(45,158,254,1) 61%, rgba(26,20,198,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(45,158,254,1) 61%, rgba(26,20,198,1) 100%);
+    background: radial-gradient(circle, rgba(45,158,254,1) 61%, rgba(26,20,198,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2d9efe",endColorstr="#1a14c6",GradientType=1);
 }
 
 .About {
@@ -87,8 +92,4 @@ html {
 .footer-colour {
     background-color: black;
     opacity: 0.8;
-}
-
-.footer-bg {
-    background-image: url('../images/Radio.jpg');
 }
