@@ -40,6 +40,11 @@ html {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#898ed6",endColorstr="#6d9ddf",GradientType=1);
 }
 
+.About {
+    background-image: url(../images/resources/About.png);
+    height: 100vh;
+}
+
 a:hover, a:focus, a:active {
     text-decoration: none;
     color: #00199f;
