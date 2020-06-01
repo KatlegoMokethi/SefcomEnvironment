@@ -3,6 +3,12 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+    <Authors>Katlego Mokhethi</Authors>
+    <Company>Innovative Systems</Company>
+    <Product>SEFCOM Environment Website</Product>
+    <Description>SEFCOM Environment Website, a hydrogeological consulting service</Description>
+    <PackageProjectUrl>sefcomenvironment.com</PackageProjectUrl>
+    <PackageReleaseNotes>First version of the website</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
