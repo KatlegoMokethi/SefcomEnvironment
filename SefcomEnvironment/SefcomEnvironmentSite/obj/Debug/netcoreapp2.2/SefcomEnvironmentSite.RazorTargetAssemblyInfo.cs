@@ -13,9 +13,10 @@ using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Mvc.ApplicationParts.ProvideApplicationPartFactoryAttribute("Microsoft.AspNetCore.Mvc.ApplicationParts.CompiledRazorAssemblyApplicationPartFac" +
     "tory, Microsoft.AspNetCore.Mvc.Razor")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("SefcomEnvironmentSite")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Innovative Systems")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyProductAttribute("SefcomEnvironmentSite")]
+[assembly: System.Reflection.AssemblyProductAttribute("SEFCOM Environment Website")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("SEFCOM Environment Website, a hydrogeological consulting service")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SefcomEnvironmentSite.Views")]
