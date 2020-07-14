@@ -3,9 +3,9 @@
 }
 
 <div id="HomeTopSection" class="text-white">
-    <div class="WelcomeMessage container">
+    <div class="WelcomeMessage container text-center">
         <h1 id="WelcomeText">
-            WELCOME TO SEFCOM ENVIRONMENT
+            WELCOME TO<br />SEFCOM ENVIRONMENT
         </h1>
         <p id="SubHeading">
             <hr class="bg-white" />
@@ -35,7 +35,9 @@
     <div id="Services">
         <div class="row">
             <div class="col">
-                <h3><span class="bg-info p-2 text-white">OUR SERVICES</span></h3>
+                <h3>
+                    <a class="p-2 text-danger" asp-controller="Services" asp-action="Index">OUR SERVICES</a>
+                </h3>
                 <ul>
                     <li>Environmental</li>
                     <li>Water</li>
@@ -43,7 +45,6 @@
                     <li>Research</li>
                     <li>Training</li>
                 </ul>
-                <p>In-depth of our <a asp-controller="Services" asp-action="Index">specialist services</a></p>
             </div>
             <div class="col">
                 <img class="img" src="~/images/resources/HhdroGModel.png" />
@@ -53,7 +54,9 @@
     <div id="Software">
         <div class="row">
             <div class="col">
-                <h3><span class="bg-info p-2 text-white">OUR SOFTWARE</span></h3>
+                <h3>
+                    <a class="p-2 text-danger" asp-controller="Software" asp-action="Index">OUR SOFTWARE</a>
+                </h3>
                 <ul>
                     <li>HYDRUS</li>
                     <li>MODFLOW</li>
@@ -74,8 +77,8 @@
     </div>
     <div id="Goal" class="pt-3">
         <p>
-            Our goal is partnership with our clients to provided the highest quality of services and 
-            to maintain high levels of professional ethics towards the fourth industrial revolution and beyond. 
+            Our goal is partnership with our clients to provided the highest quality of services and
+            to maintain high levels of professional ethics towards the fourth industrial revolution and beyond.
             We are enthusiastic about the implementation of modern technology and artificial intelligence.
         </p>
     </div>
