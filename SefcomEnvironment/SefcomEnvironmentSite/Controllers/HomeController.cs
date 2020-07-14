@@ -16,5 +16,17 @@ namespace SefcomEnvironmentSite.Controllers
         {
             return View();
         }
+        public IActionResult Team()
+        {
+            return View();
+        }
+        public IActionResult Partners()
+        {
+            return View();
+        }
+        public IActionResult References()
+        {
+            return View();
+        }
     }
 }
