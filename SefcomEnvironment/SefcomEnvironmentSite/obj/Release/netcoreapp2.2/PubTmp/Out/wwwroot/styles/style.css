@@ -1,0 +1,95 @@
+﻿/*--
+Author: Katlego Mokhethi
+Author URL: mokhethikatlego@gmail.com
+--*/
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+#HomeTopSection {
+    background-image: url(../images/resources/HomepageImg.png);
+    width: 100%;
+    height: 100vh;
+}
+
+.WelcomeMessage {
+    padding-top: 100px;
+}
+
+#WelcomeText {
+    font-family: Impact;
+    font-size: 60pt;
+}
+
+.img {
+    width: 100%;
+}
+
+.area {
+    /*background: rgb(137,142,214);
+    background: -moz-radial-gradient(circle, rgba(137,142,214,1) 0%, rgba(216,216,245,1) 0%, rgba(109,157,223,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(137,142,214,1) 0%, rgba(216,216,245,1) 0%, rgba(109,157,223,1) 100%);
+    background: radial-gradient(circle, rgba(137,142,214,1) 0%, rgba(216,216,245,1) 0%, rgba(109,157,223,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#898ed6",endColorstr="#6d9ddf",GradientType=1);*/
+    background: rgb(45,158,254);
+    background: -moz-radial-gradient(circle, rgba(45,158,254,1) 61%, rgba(26,20,198,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(45,158,254,1) 61%, rgba(26,20,198,1) 100%);
+    background: radial-gradient(circle, rgba(45,158,254,1) 61%, rgba(26,20,198,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#2d9efe",endColorstr="#1a14c6",GradientType=1);
+}
+
+.About {
+    background-image: url(../images/resources/About.png);
+    height: 100vh;
+}
+
+a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: #00199f;
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#navbar {
+    box-shadow: 0px 0px 32px -7px #00199f;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+#icon {
+    width: 20px;
+    height: 20px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+.footer-colour {
+    background-color: black;
+    opacity: 0.8;
+}
