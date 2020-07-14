@@ -31,3 +31,6 @@ C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\Sef
 C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Release\netcoreapp2.2\SefcomEnvironmentSite.pdb
 C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Release\netcoreapp2.2\SefcomEnvironmentSite.csproj.CopyComplete
 C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Release\netcoreapp2.2\SefcomEnvironmentSite.csprojAssemblyReference.cache
+C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Release\netcoreapp2.2\Razor\Views\Home\Partners.cshtml.g.cs
+C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Release\netcoreapp2.2\Razor\Views\Home\References.cshtml.g.cs
+C:\Users\KKW MOKHETHI\Documents\Code\Projects\ASP.NET Core\SefcomEnvironment\SefcomEnvironment\SefcomEnvironmentSite\obj\Release\netcoreapp2.2\Razor\Views\Home\Team.cshtml.g.cs
