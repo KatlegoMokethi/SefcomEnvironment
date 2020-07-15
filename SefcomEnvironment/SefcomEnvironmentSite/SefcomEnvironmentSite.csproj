@@ -8,7 +8,7 @@
     <Product>SEFCOM Environment Website</Product>
     <Description>SEFCOM Environment Website, a hydrogeological consulting service</Description>
     <PackageProjectUrl>sefcomenvironment.com</PackageProjectUrl>
-    <PackageReleaseNotes>First version of the website</PackageReleaseNotes>
+    <PackageReleaseNotes>Intitial version of the website</PackageReleaseNotes>
   </PropertyGroup>
 
   <ItemGroup>
