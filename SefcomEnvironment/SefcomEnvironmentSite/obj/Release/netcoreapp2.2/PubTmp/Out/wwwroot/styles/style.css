@@ -98,13 +98,11 @@ html {
 
 .social-buttons {
     display: inline-block;
-    /*background: rgba(256,256,256,0.5);*/
     padding: 20px;
     padding-bottom: 5px;
     border-radius: 10px;
     text-align: center;
     margin: 20px 10px;
-    /*box-shadow: 0px 0px 32px -7px #00199f;*/
 }
 
 /* Helper class to divide the icons */
