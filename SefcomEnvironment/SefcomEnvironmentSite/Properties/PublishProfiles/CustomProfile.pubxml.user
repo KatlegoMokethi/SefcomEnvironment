@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAq0VQuyzLSEOG64RdkSb+BAAAAAACAAAAAAAQZgAAAAEAACAAAABBqPttHCiSMsZ9GmSo3tjIk2fiboZhXQvFDmEJUFfbswAAAAAOgAAAAAIAACAAAAC5hOq5ErXG9rq4iKJ0xEIGjQiydAI1wqwOhAObegl8wCAAAAAX9CeM/NHvfqMgTKONaWTy/ZWOzU8l2GFT7B/yY2iHdkAAAADCioa4YbNb+fbiKGb+SJumyGS1yEsgF4e10NXjpp1mPi1H28HgZhgjS+9zFkNPr9wKzHLf0ElGkbdtNFyNTz5U</EncryptedPassword>
+    <_PublishTargetUrl>ftp://sefcomenvironment.com/sefcomenvironment.com/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>05/31/2020 00:56:25</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>05/31/2020 00:56:25</publishTime>
+    </File>
+    <File Include="libman.json">
+      <publishTime>05/31/2020 02:10:28</publishTime>
+    </File>
+    <File Include="SefcomEnvironmentSite.deps.json">
+      <publishTime>07/16/2020 22:31:27</publishTime>
+    </File>
+    <File Include="SefcomEnvironmentSite.dll">
+      <publishTime>07/16/2020 22:30:43</publishTime>
+    </File>
+    <File Include="SefcomEnvironmentSite.pdb">
+      <publishTime>07/16/2020 22:30:43</publishTime>
+    </File>
+    <File Include="SefcomEnvironmentSite.runtimeconfig.json">
+      <publishTime>06/11/2020 14:02:42</publishTime>
+    </File>
+    <File Include="SefcomEnvironmentSite.Views.dll">
+      <publishTime>07/16/2020 22:31:09</publishTime>
+    </File>
+    <File Include="SefcomEnvironmentSite.Views.pdb">
+      <publishTime>07/16/2020 22:31:09</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>07/16/2020 22:31:27</publishTime>
+    </File>
+    <File Include="wwwroot/images/logo/SE_BlackLogo.png">
+      <publishTime>07/14/2020 20:08:09</publishTime>
+    </File>
+    <File Include="wwwroot/images/logo/SE_Logo.png">
+      <publishTime>05/31/2020 01:09:52</publishTime>
+    </File>
+    <File Include="wwwroot/images/logo/SE_WhiteLogo.png">
+      <publishTime>07/14/2020 20:07:24</publishTime>
+    </File>
+    <File Include="wwwroot/images/logo/SE_WLogo.png">
+      <publishTime>05/31/2020 18:19:05</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/About.png">
+      <publishTime>06/01/2020 12:14:15</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/carousel/image1.png">
+      <publishTime>07/14/2020 20:40:46</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/carousel/image2.jpg">
+      <publishTime>07/15/2020 11:26:42</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/carousel/image3.jpg">
+      <publishTime>07/14/2020 20:44:07</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/carousel/image4.jpg">
+      <publishTime>07/15/2020 11:28:39</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/ConsultingEngineers.jpeg">
+      <publishTime>05/31/2020 00:13:18</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/GeoAndHydroChem.jpeg">
+      <publishTime>05/31/2020 00:13:47</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/GISSModel.jpeg">
+      <publishTime>05/31/2020 00:13:29</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/GroundWater.jpeg">
+      <publishTime>05/31/2020 00:13:43</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/HhdroGModel.png">
+      <publishTime>05/31/2020 20:31:54</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/HomepageImg.png">
+      <publishTime>05/31/2020 19:26:40</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/Investigations.jpeg">
+      <publishTime>05/31/2020 00:13:26</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/MiningServices.jpeg">
+      <publishTime>05/31/2020 00:13:22</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/partners/DIGBY_WELLS.png">
+      <publishTime>07/14/2020 18:53:39</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/partners/GEL50.png">
+      <publishTime>07/14/2020 18:54:36</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/partners/TranaTek.png">
+      <publishTime>07/14/2020 19:38:58</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/partners/TranaTek_.png">
+      <publishTime>07/14/2020 21:36:43</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/partners/UltraWater.png">
+      <publishTime>07/14/2020 18:54:11</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/RandD.jpeg">
+      <publishTime>05/31/2020 00:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/SalesMarketing.jpg">
+      <publishTime>07/15/2020 23:13:53</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/SeepageModelling.jpeg">
+      <publishTime>05/31/2020 00:13:38</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/software/ANSYS.png">
+      <publishTime>06/01/2020 11:38:26</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/software/ArcGIS.png">
+      <publishTime>06/01/2020 11:35:38</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/software/CFX.jpg">
+      <publishTime>06/01/2020 11:37:59</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/software/feflow.png">
+      <publishTime>06/01/2020 11:33:36</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/software/goldsim.png">
+      <publishTime>06/01/2020 11:34:31</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/software/HYDRUS.jpg">
+      <publishTime>07/14/2020 18:42:52</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/software/MODFLOW.gif">
+      <publishTime>05/31/2020 20:11:00</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/software/PHREEQC.jpg">
+      <publishTime>06/01/2020 11:35:09</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/software/QGIS.png">
+      <publishTime>06/01/2020 11:36:11</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/software/SYNAMIC STUDIO.png">
+      <publishTime>06/01/2020 11:40:30</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/SoilServices.jpeg">
+      <publishTime>05/31/2020 00:13:56</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/SpatialDataAnalysis.jpg">
+      <publishTime>06/01/2020 11:00:29</publishTime>
+    </File>
+    <File Include="wwwroot/images/resources/Training.jpeg">
+      <publishTime>05/31/2020 00:14:01</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.css">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.css">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.css.map">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.min.css">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.js">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.js.map">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.bundle.min.js.map">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.js">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.js.map">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.min.js">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/bootstrap/js/bootstrap.min.js.map">
+      <publishTime>05/31/2020 01:24:04</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/all.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/all.min.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/brands.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/brands.min.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/fontawesome.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/fontawesome.min.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/regular.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/regular.min.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/solid.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/solid.min.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/svg-with-js.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/svg-with-js.min.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/v4-shims.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/css/v4-shims.min.css">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/all.js">
+      <publishTime>05/31/2020 02:10:56</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/all.min.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/brands.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/brands.min.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/conflict-detection.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/conflict-detection.min.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/fontawesome.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/fontawesome.min.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/regular.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/regular.min.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/solid.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/solid.min.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/v4-shims.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/js/v4-shims.min.js">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/sprites/brands.svg">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/sprites/regular.svg">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/sprites/solid.svg">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-brands-400.eot">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-brands-400.svg">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-brands-400.ttf">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-brands-400.woff">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-brands-400.woff2">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-regular-400.eot">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-regular-400.svg">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-regular-400.ttf">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-regular-400.woff">
+      <publishTime>05/31/2020 02:10:57</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-regular-400.woff2">
+      <publishTime>05/31/2020 02:10:58</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-solid-900.eot">
+      <publishTime>05/31/2020 02:10:58</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-solid-900.svg">
+      <publishTime>05/31/2020 02:10:58</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-solid-900.ttf">
+      <publishTime>05/31/2020 02:10:58</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-solid-900.woff">
+      <publishTime>05/31/2020 02:10:59</publishTime>
+    </File>
+    <File Include="wwwroot/lib/font-awesome/webfonts/fa-solid-900.woff2">
+      <publishTime>05/31/2020 02:10:59</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/jquery.js">
+      <publishTime>05/31/2020 01:25:33</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/jquery.min.js">
+      <publishTime>05/31/2020 01:25:33</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/jquery.min.map">
+      <publishTime>05/31/2020 01:25:33</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/jquery.slim.js">
+      <publishTime>05/31/2020 01:25:33</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/jquery.slim.min.js">
+      <publishTime>05/31/2020 01:25:33</publishTime>
+    </File>
+    <File Include="wwwroot/lib/jquery/jquery.slim.min.map">
+      <publishTime>05/31/2020 01:25:33</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper-base.js">
+      <publishTime>05/31/2020 01:27:45</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper-base.js.map">
+      <publishTime>05/31/2020 01:27:45</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper-base.min.js">
+      <publishTime>05/31/2020 01:27:45</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper-base.min.js.map">
+      <publishTime>05/31/2020 01:27:45</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper-lite.js">
+      <publishTime>05/31/2020 01:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper-lite.js.map">
+      <publishTime>05/31/2020 01:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper-lite.min.js">
+      <publishTime>05/31/2020 01:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper-lite.min.js.map">
+      <publishTime>05/31/2020 01:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper.js">
+      <publishTime>05/31/2020 01:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper.js.map">
+      <publishTime>05/31/2020 01:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper.min.js">
+      <publishTime>05/31/2020 01:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/cjs/popper.min.js.map">
+      <publishTime>05/31/2020 01:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/contains.js">
+      <publishTime>05/31/2020 01:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/contains.min.js">
+      <publishTime>05/31/2020 01:27:46</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/contains.min.js.map">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getBorders.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getBorders.min.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getBorders.min.js.map">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getBoundingClientRect.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getBoundingClientRect.min.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getBoundingClientRect.min.js.map">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getClippingRect.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getClippingRect.min.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getClippingRect.min.js.map">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getCompositeRect.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getCompositeRect.min.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getCompositeRect.min.js.map">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getComputedStyle.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getDecorations.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getDecorations.min.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getDecorations.min.js.map">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getDocumentElement.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getDocumentRect.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getDocumentRect.min.js">
+      <publishTime>05/31/2020 01:27:47</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getDocumentRect.min.js.map">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getHTMLElementScroll.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getLayoutRect.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getLayoutRect.min.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getLayoutRect.min.js.map">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getNodeName.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getNodeScroll.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getNodeScroll.min.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getNodeScroll.min.js.map">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getOffsetParent.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getOffsetParent.min.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getOffsetParent.min.js.map">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getParentNode.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getParentNode.min.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getParentNode.min.js.map">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getScrollParent.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getScrollParent.min.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getScrollParent.min.js.map">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getViewportRect.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getViewportRect.min.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getViewportRect.min.js.map">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getWindow.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getWindow.min.js">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getWindow.min.js.map">
+      <publishTime>05/31/2020 01:27:48</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getWindowScroll.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getWindowScroll.min.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getWindowScroll.min.js.map">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getWindowScrollBarX.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getWindowScrollBarX.min.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/getWindowScrollBarX.min.js.map">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/instanceOf.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/instanceOf.min.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/instanceOf.min.js.map">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/isScrollParent.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/isScrollParent.min.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/isScrollParent.min.js.map">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/isTableElement.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/listScrollParents.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/listScrollParents.min.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/dom-utils/listScrollParents.min.js.map">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/enums.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/enums.min.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/enums.min.js.map">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/index.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/index.min.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/index.min.js.map">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/applyStyles.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/applyStyles.min.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/applyStyles.min.js.map">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/arrow.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/arrow.min.js">
+      <publishTime>05/31/2020 01:27:49</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/arrow.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/computeStyles.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/computeStyles.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/computeStyles.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/eventListeners.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/eventListeners.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/eventListeners.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/flip.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/flip.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/flip.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/hide.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/hide.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/hide.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/offset.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/offset.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/offset.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/popperOffsets.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/popperOffsets.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/popperOffsets.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/preventOverflow.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/preventOverflow.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/modifiers/preventOverflow.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/popper-base.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/popper-lite.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/popper.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/popper.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/popper.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/computeAutoPlacement.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/computeAutoPlacement.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/computeAutoPlacement.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/computeOffsets.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/computeOffsets.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/computeOffsets.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/debounce.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/debounce.min.js">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/debounce.min.js.map">
+      <publishTime>05/31/2020 01:27:50</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/detectOverflow.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/detectOverflow.min.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/detectOverflow.min.js.map">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/expandToHashMap.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/format.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/format.min.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/format.min.js.map">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getAltAxis.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getAltLen.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getBasePlacement.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getFreshSideObject.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getFreshSideObject.min.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getFreshSideObject.min.js.map">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getMainAxisFromPlacement.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getOppositePlacement.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getOppositePlacement.min.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getOppositePlacement.min.js.map">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getOppositeVariationPlacement.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getOppositeVariationPlacement.min.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getOppositeVariationPlacement.min.js.map">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/getVariation.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/mergeByName.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/mergeByName.min.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/mergeByName.min.js.map">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/mergePaddingObject.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/orderModifiers.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/orderModifiers.min.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/orderModifiers.min.js.map">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/rectToClientRect.js">
+      <publishTime>05/31/2020 01:27:51</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/rectToClientRect.min.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/rectToClientRect.min.js.map">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/uniqueBy.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/uniqueBy.min.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/uniqueBy.min.js.map">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/validateModifiers.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/validateModifiers.min.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/validateModifiers.min.js.map">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/esm/utils/within.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper-base.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper-base.js.map">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper-base.min.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper-base.min.js.map">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper-lite.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper-lite.js.map">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper-lite.min.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper-lite.min.js.map">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper.js.map">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper.min.js">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/lib/popper.js/umd/popper.min.js.map">
+      <publishTime>05/31/2020 01:27:52</publishTime>
+    </File>
+    <File Include="wwwroot/styles/style.css">
+      <publishTime>07/15/2020 11:44:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
